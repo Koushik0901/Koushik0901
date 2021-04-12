@@ -19,5 +19,9 @@
   [<img target="_blank" src="https://seeklogo.com/images/A/amazon-web-services-aws-logo-6C2E3DCD3E-seeklogo.com.png" width=100 height=80>](https://aws.amazon.com/)
   
 ## Connect with me
-  [<img target="_blank" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" width=50 height=50>](https://www.linkedin.com/in/koushik-sivarama-krishnan/)
-  [<img target="_blank" src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" width=50 height=50>](https://www.instagram.com/koushik_shiv/)
+  [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
+  [<img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">][gmail]
+  
+  
+  [gmail]: https://gmail.com
+  [linkedin]: https://www.linkedin.com/in/koushik-sivarama-krishnan/

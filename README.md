@@ -18,6 +18,9 @@
   [<img target="_blank" src="https://opencv.org/wp-content/uploads/2019/02/opencv-logo-1.png" width=100 height=80>](https://opencv.org/)
   [<img target="_blank" src="https://seeklogo.com/images/A/amazon-web-services-aws-logo-6C2E3DCD3E-seeklogo.com.png" width=100 height=80>](https://aws.amazon.com/)
   
+  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Koushik0901&show_icons=true&locale=en" alt="Koushik0901" /></p>
+  
 ## Connect with me
   [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
   [<img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">][gmail]

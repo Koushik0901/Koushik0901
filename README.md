@@ -3,9 +3,9 @@
 
 ## About
  ***An ingenious student with a predilection for Artificial Intelligence. Adept in various advanced machine learning and deep learning concepts with a strong foundation on the basics. Currently pursuing a Bachelor's degree in Computer Science Engineering.*** 
- - 📫 How to reach me: koushik.nov01@gmail.com 📥
- - 🌱 I’m currently learning everything 😛
- - 🥅 Goals: Create an Interactive artificial consciousness🤖 in 2021. 
+ - 📫 How to reach me: **koushik.nov01@gmail.com** 📥
+ - 🌱 I’m currently learning **Machine Learning, Deep Learning & NLP**
+ - 🔭 I’m currently working on **Conversational AI**
  
 ## Tools and Technologies
    

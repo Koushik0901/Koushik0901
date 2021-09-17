@@ -6,6 +6,8 @@
  - 📫 How to reach me: **koushik.nov01@gmail.com** 📥
  - 🌱 I’m currently learning **Machine Learning, Deep Learning & NLP**
  - 🔭 I’m currently working on **Conversational AI**
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Koushik0901&show_icons=true&locale=en" alt="Koushik0901" /></p>
  
 ## Tools and Technologies
    
@@ -19,7 +21,7 @@
   [<img target="_blank" src="https://seeklogo.com/images/A/amazon-web-services-aws-logo-6C2E3DCD3E-seeklogo.com.png" width=100 height=80>](https://aws.amazon.com/)
   
   
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Koushik0901&show_icons=true&locale=en" alt="Koushik0901" /></p>
+
   
 ## Connect with me
   [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]

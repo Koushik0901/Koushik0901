@@ -8,7 +8,7 @@
  - 🔭 I’m currently working on **Conversational AI**
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/vision-transformer-based-covid-19-detection/covid-19-diagnosis-on-covid-19-cxr-dataset)](https://paperswithcode.com/sota/covid-19-diagnosis-on-covid-19-cxr-dataset?p=vision-transformer-based-covid-19-detection)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Koushik0901&show_icons=true&locale=en" alt="Koushik0901" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Koushik0901&show_icons=true&locale=en&theme=radical" alt="Koushik0901" /></p>
  
 ## Tools and Technologies
    

@@ -29,5 +29,5 @@
   [<img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">][gmail]
   
   
-  [gmail]: https://gmail.com
+  [gmail]: https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=koushik.nov01@gmail.com
   [linkedin]: https://www.linkedin.com/in/koushik-sivarama-krishnan/

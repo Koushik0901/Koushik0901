@@ -12,14 +12,14 @@
  
 ## Tools and Technologies
    
-  [<img target="_blank" src="https://numpy.org/images/logos/numpy.svg" width=200 height=80>](https://numpy.org/)
-  [<img target="_blank" src="https://matplotlib.org/_static/logo2_compressed.svg" width=200 height=80>](https://matplotlib.org/)
-  [<img target="_blank" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width=200>](https://scikit-learn.org/stable/)  
-  [<img target="_blank" src="https://keras.io/img/logo.png" width=200>](https://keras.io/)
-  [<img target="_blank" src="https://www.gstatic.com/devrel-devsite/prod/vfae72444d3bdc8ae13b8cc5631b2eafccb5edbf6e3dc3e733b21af239a5c570e/tensorflow/images/lockup.svg" width=200 height=80>](https://www.tensorflow.org/) 
-  [<img target="_blank" src="https://raw.githubusercontent.com/pytorch/pytorch/master/docs/source/_static/img/pytorch-logo-dark.png" width=200 height=80>](https://pytorch.org/) 
-  [<img target="_blank" src="https://opencv.org/wp-content/uploads/2019/02/opencv-logo-1.png" width=100 height=80>](https://opencv.org/)
-  [<img target="_blank" src="https://seeklogo.com/images/A/amazon-web-services-aws-logo-6C2E3DCD3E-seeklogo.com.png" width=100 height=80>](https://aws.amazon.com/)
+  [<img target="_blank" src="https://numpy.org/images/logo.svg" width=200 height=80>](https://numpy.org/) &emsp;
+  &emsp;[<img target="_blank" src="https://matplotlib.org/_static/logo2_compressed.svg" width=200 height=80>](https://matplotlib.org/) &emsp;
+  &emsp;[<img target="_blank" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width=200>](https://scikit-learn.org/stable/)  &emsp;
+  &emsp;[<img target="_blank" src="https://keras.io/img/logo.png" width=200>](https://keras.io/) &emsp;
+  &emsp;[<img target="_blank" src="https://www.gstatic.com/devrel-devsite/prod/v99fd0c828fa12c8e4ac5a683d534aa207353ab3b49583792c0a838c031276d00/tensorflow/images/lockup.svg" width=200 height=80>](https://www.tensorflow.org/)  &emsp;
+  &emsp;[<img target="_blank" src="https://raw.githubusercontent.com/pytorch/pytorch/master/docs/source/_static/img/pytorch-logo-dark.png" width=200 height=80>](https://pytorch.org/) &emsp;
+  &emsp;[<img target="_blank" src="https://opencv.org/wp-content/uploads/2019/02/opencv-logo-1.png" width=100 height=80>](https://opencv.org/) &emsp;
+  &emsp;[<img target="_blank" src="https://seeklogo.com/images/A/amazon-web-services-aws-logo-6C2E3DCD3E-seeklogo.com.png" width=100 height=80>](https://aws.amazon.com/) &emsp;
   
   
 

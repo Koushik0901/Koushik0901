@@ -8,8 +8,7 @@
  - 🔭 I’m currently working on **Conversational AI**
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/vision-transformer-based-covid-19-detection/covid-19-diagnosis-on-covid-19-cxr-dataset)](https://paperswithcode.com/sota/covid-19-diagnosis-on-covid-19-cxr-dataset?p=vision-transformer-based-covid-19-detection)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Koushik0901&show_icons=true&locale=en" alt="Koushik0901" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Koushik0901&" alt="Koushik0901" /></p>
+
  
 ## Tools and Technologies
    
@@ -21,8 +20,13 @@
   &emsp;[<img target="_blank" src="https://raw.githubusercontent.com/pytorch/pytorch/master/docs/source/_static/img/pytorch-logo-dark.png" width=200 height=80>](https://pytorch.org/) &emsp;
   &emsp;[<img target="_blank" src="https://opencv.org/wp-content/uploads/2019/02/opencv-logo-1.png" width=100 height=80>](https://opencv.org/) &emsp;
   &emsp;[<img target="_blank" src="https://seeklogo.com/images/A/amazon-web-services-aws-logo-6C2E3DCD3E-seeklogo.com.png" width=100 height=80>](https://aws.amazon.com/) &emsp;
-  
-  
+
+## Profile Stats
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Koushik0901&show_icons=true&locale=en" alt="Koushik0901" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Koushik0901&" alt="Koushik0901" /></p>
+
+### Profile Visits
+![Visitor Count](https://profile-counter.glitch.me/{Koushik0901}/count.svg)  
 
   
 ## Connect with me

@@ -1,4 +1,6 @@
-<h1 align="center">Hi There! 👋 I'm Koushik</h1> 
+<h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Hi+There!+%F0%9F%91%8B+I'm+Koushik" alt="Typing SVG" /></a>
+</h1> 
 <img target="_blank" src="https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif" width = 500 height = 320>
 
 ## About
@@ -11,16 +13,43 @@
 
  
 ## Tools and Technologies
-   
-  [<img target="_blank" src="https://numpy.org/images/logo.svg" width=200 height=80>](https://numpy.org/) &emsp;
-  &emsp;[<img target="_blank" src="https://matplotlib.org/_static/logo2_compressed.svg" width=200 height=80>](https://matplotlib.org/) &emsp;
-  &emsp;[<img target="_blank" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width=200>](https://scikit-learn.org/stable/)  &emsp;
-  &emsp;[<img target="_blank" src="https://keras.io/img/logo.png" width=200>](https://keras.io/) &emsp;
-  &emsp;[<img target="_blank" src="https://www.gstatic.com/devrel-devsite/prod/v99fd0c828fa12c8e4ac5a683d534aa207353ab3b49583792c0a838c031276d00/tensorflow/images/lockup.svg" width=200 height=80>](https://www.tensorflow.org/)  &emsp;
-  &emsp;[<img target="_blank" src="https://raw.githubusercontent.com/pytorch/pytorch/master/docs/source/_static/img/pytorch-logo-dark.png" width=200 height=80>](https://pytorch.org/) &emsp;
-  &emsp;[<img target="_blank" src="https://opencv.org/wp-content/uploads/2019/02/opencv-logo-1.png" width=100 height=80>](https://opencv.org/) &emsp;
-  &emsp;[<img target="_blank" src="https://seeklogo.com/images/A/amazon-web-services-aws-logo-6C2E3DCD3E-seeklogo.com.png" width=100 height=80>](https://aws.amazon.com/) &emsp;
-
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=80 height=80/>
+  </a>
+  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=80 height=80/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width=80 height=80/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width=80 height=80/>
+  </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width=80 height=80/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width=80 height=80/>
+  </a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width=80 height=80/>
+  </a>
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width=80 height=80/>
+  </a>
+  <a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width=80 height=80/>
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" width=80 height=80/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width=80 height=80/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width=80 height=80/>
+  </a>
+ 
 ## Profile Stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Koushik0901&show_icons=true&locale=en" alt="Koushik0901" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Koushik0901&" alt="Koushik0901" /></p>
